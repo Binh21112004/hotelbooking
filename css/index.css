@@ -1,0 +1,23 @@
+
+.btn-outline-dark:hover {
+    color: #fff;
+    background-color: #AB8A62!important;
+    border-color: #212529;
+}
+
+.facility-button p{
+  color: #AB8A62 ;
+  font-size: 20px;
+}
+
+.social span:hover{
+  color: #AB8A62 !important;
+}
+
+.social:hover{
+  color: #AB8A62 !important;
+} 
+
+.collapse .navbar-nav .nav-item a:hover{
+  color: var(--teal);
+}
